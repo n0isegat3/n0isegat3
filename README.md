@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @n0isegat3
+- 👀 I’m interested in cyber security, red teaming, penetration testing
+- 💞️ I’m looking to collaborate on any cyber security related projects
+- 📫 You can reach me at jan@cyber-rangers.com
